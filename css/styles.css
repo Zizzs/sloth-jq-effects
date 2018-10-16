@@ -2,7 +2,11 @@
   display: none;
 }
 
-.clickable {
+#fadeJS, #fadeOp, #fadeVar, #fadeVarN, #fadeFu, #fadeMe, #fadePa, #fadeRe, #fadeCm, #fadeSt, #fadeBo, #fadeUn, #fadeNaN, #fadeEs, #fadeAl, #fadeCo, #fadeJQ, #fadeAtt, #fadeArg {
+  display: none;
+}
+
+#clickable, #clickable1, #clickable2, #clickable3, #clickable4, #clickable5, #clickable6, #clickable7, #clickable8, #clickable9, #clickable10, #clickable11, #clickable12, #clickable13, #clickable14, #clickable15, #clickable16, #clickable17, #clickable18, #clickable19{
   cursor: pointer;
   color: #0088cc;
 }
@@ -13,6 +17,7 @@
 
 .green-background {
   background-color: green;
+  color: purple;
 }
 
 .yellow-background {
